@@ -1,4 +1,4 @@
-var jsonData = [
+  [
     {
         "q" : "Who Was the 1st ODI captain for India?",
         "opt1" : "Ajit Wadekar",
